@@ -1,0 +1,27 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+img{
+   padding: 10%;
+}
+input{
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 8px ;
+    margin-top: 5%;
+}
+a:link{
+    color: #817e7e;
+    margin-left: 1%;
+}
+#bouton{
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-top: 5%;
+    padding: 8px ;
+    background-color: #4a96a6;
+    color: white;
+}
